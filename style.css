@@ -2,6 +2,14 @@ html{
     font-family: 'Lobster', cursive;
 }
 
+body{
+    background-image: url('1640610882_56-idei-club-p-fon-stena-oboi-interer-krasivo-foto-56.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+}
+
 .mem_place{
     background-image: url('ramka-dlya-kartinyi-a4_b017_3750h.jpeg');
     background-repeat: no-repeat;
@@ -9,7 +17,7 @@ html{
     background-position: center;
     width: 1000px;
     height: 500px;
-    margin: 100px auto 0;
+    margin: 80px auto 0;
 
     display: flex;
     justify-content: center;
@@ -23,7 +31,8 @@ html{
 
 
 h1{
-    margin-top: 0;
+    color: bisque;
+    margin-top: 30px;
     text-align: center;
 }
 
